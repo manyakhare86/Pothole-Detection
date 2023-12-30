@@ -16,9 +16,11 @@ Note: These size-categories were calculated after resizing the images to 300x300
 Splits
 The directory annotated-images contains the images having pothole and their respective annotations (as XML file).
 The file splits.json contains the annotation filenames (.xml) of the training (80%) and test (20%) dataset in following format---
+
 {
   "train": ["img-110.xml", "img-578.xml", "img-455.xml", ...],
   "test": ["img-565.xml", "img-498.xml", "img-143.xml", ...]
 }
+
 
 
