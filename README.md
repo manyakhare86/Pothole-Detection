@@ -1,4 +1,4 @@
-Pothole Detection with Detectron2
+# Pothole Detection with Detectron2 and Yolo
 
 Dataset Link: https://www.kaggle.com/datasets/chitholian/annotated-potholes-dataset
 
